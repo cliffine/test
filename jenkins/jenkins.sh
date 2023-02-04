@@ -1,3 +1,5 @@
+#!/bin/bash
+
 1 # Install Java
 
   sudo yum install java-11-openjdk-devel -y
